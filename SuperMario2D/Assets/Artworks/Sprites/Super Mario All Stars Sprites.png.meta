@@ -1,0 +1,2976 @@
+fileFormatVersion: 2
+guid: 74f5c3b2646b9ae4fa5ec724a5aea3bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 411
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41c62b579e404940b6003cca29a2a70
+      internalID: -979752946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 410
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8feacf3a0c28f47ac012254c19d434
+      internalID: -1270167922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 410
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea38ca3554b2c8f45a0b8ab5add68b03
+      internalID: -1871617808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 410
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711267ed2c40ecf4cb5253ad5acf6b17
+      internalID: -598084240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 411
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043e7a7b321517a4e88401057df36588
+      internalID: -582737374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 407
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc4146e05dee24da27620bc5e58595
+      internalID: 408637740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56e91e48b0b974da681ce50e0a78cd
+      internalID: 1599987208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 370
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad58c0264b3d2dd48aae51455ee1d71f
+      internalID: 1875606763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe6d0f1b8992f142adc42b79dc4e1c1
+      internalID: 1893501250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d05b37d666d574bb290c55bf631090
+      internalID: -1857408393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 371
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f043af4618b5e429cf6a36faa5148d
+      internalID: 53336148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 323
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75386b885ed4fb743aaee96186441aa4
+      internalID: 443611129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 323
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bb4c81f07d95c4bb90bef449f46e83
+      internalID: -1215356282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 324
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7508d801ddfa9419d1f66fa98fdda2
+      internalID: 830861966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 323
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6ea18446202ce4b9baaa5f33cdc7dc
+      internalID: -712479527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 323
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bbabe5ec605be489434feb5618b348
+      internalID: -612545280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 325
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df31b71954176e748b444bb7422caff7
+      internalID: 908553184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 324
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3857e14a2516ad43925507aded94535
+      internalID: -842219047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 323
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ff4dccb708044dbea4999c7d7b646
+      internalID: 1523405123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 326
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35546ce14fd64ff4fa77b2a4deaf7bc0
+      internalID: 563906885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 327
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9521adb9fd89d9b4c91411265ff16c81
+      internalID: 1241841859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 327
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c889ecd956341d41bfd6d1f341150a3
+      internalID: -1540738977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 284
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32a49016900fd4baec4812a7cd6e27
+      internalID: -1782342934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 284
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a95f4995c8cd34ab4a03203c5742f1
+      internalID: 944915445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 283
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce48119863c97e4189d7bdb276e0440
+      internalID: -1200295407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 287
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16639bd2ae4b066499eaf895035810a8
+      internalID: -1072940310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db903702dd6814dbf3aeb56661d08a
+      internalID: -2114493622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 285
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeee39f040cabc4b8ea3ee554936826
+      internalID: 989284257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 285
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24288251f71288a409947d33d4ec91ae
+      internalID: 1697486576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 287
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac38c3839d5869c4d92393d9aa766ce7
+      internalID: 1299715184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 287
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d905caa8e1e54399fb6d13bcb1e84
+      internalID: 1489133059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 287
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9fb70187d0efe4eb88f85b52e48643
+      internalID: -383127158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 287
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aad165e6471814793e199084294dd7
+      internalID: 3146243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 243
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9196116f0110b24cae99596cb3c06db
+      internalID: 794013625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 243
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e1e113a0e5e6f45bbf476efce033e8
+      internalID: -1247159975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 244
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb0b979cc5f1f6458194d5b6b289b69
+      internalID: 2025002802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 243
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0016132468a82384f9fa36e472cf87c2
+      internalID: 552837818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 243
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa32a5d95dc9d604181a81b16e7c8289
+      internalID: -1441839403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 245
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb98b2281152e4f46b9b48c1b4db20e0
+      internalID: -1510736169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 244
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822b454a35c56364c885a4466fd769e6
+      internalID: -46275327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 243
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfe560e5ec66624591d2d624ebb0017
+      internalID: 982265594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 246
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d528dfc1d605d6146aa9498629a7cdb1
+      internalID: 908054248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 246
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e686b2172e0d52f40b87c0679f703455
+      internalID: 679482557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 246
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af849ddb782e142ae98b1efc21cd95
+      internalID: 1064582761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 204
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93d3d3d78d182e43818da6c8bf82ba5
+      internalID: 528222435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 204
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57beff21b4b56ff4db9d86ce8d7d55f0
+      internalID: -937206693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 203
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6565fd8c8dce43740a22f449390deb32
+      internalID: -61552123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 207
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55770f506d9f63944b1cb491031dad4a
+      internalID: 1792319763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 205
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e8755f5bfec544790a172529b0fe14
+      internalID: 729471977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 205
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e74487b7b20cd43a9b211d5accf1ed
+      internalID: -2053561416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 205
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c1cde356dfc2c489ca5d66fa893f84
+      internalID: 777551145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 203
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1041a818d2b2ed942ac925062f85d1a9
+      internalID: 1233529704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 202
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e2474b89f5aa540838473d57264c81
+      internalID: -271996420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce284ab22dc03024fa19718582519d0d
+      internalID: 1212221453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e7382d82046243b35fe9f3151f402
+      internalID: 147109229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 174
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa157705796063040a08eb3f26ddc520
+      internalID: -289431105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd18764a5cf10f43a4aa69799666660
+      internalID: 1368853541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c41d0e2a8d25d14e8b39ee3ed3e789c
+      internalID: -1015295466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 166
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9900d6b31d5248ac0ea905114f55f
+      internalID: -214565217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d99dc86692c6204ca17a0f2bc10d0ca
+      internalID: 79690068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9443db60324b7ab46b210f848f12a807
+      internalID: -1815372688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7a98af32c00a24fbc9a826456583fe
+      internalID: -1031044687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c55bf1ab4e0db4e95aa581ceca2362
+      internalID: 675316759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea49b9a6f7ac2694eadf61601987eb46
+      internalID: -1025678994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be748abe33469254c92a428087cf6f6b
+      internalID: 1780050184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435f29273e23ea046ab9b6a36054699b
+      internalID: 169455135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 134
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c50b78a1f4684c9e8f746da6626bb
+      internalID: 1019837573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e583f29c0eda84fa0f50e533fad022
+      internalID: -926372795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 126
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651c8254d1042694c926d4864576664b
+      internalID: -1715064085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 126
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c951451c81fa4c141a2977df35b48a11
+      internalID: 1740899794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 127
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbfe12f661329b4f9855bb82f94e4ed
+      internalID: -1229112213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d80ab4547f1d498d67c9eddd72a99
+      internalID: -696063227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629f50acfc6040b4693dfe63ebed0ebd
+      internalID: 936332865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc0cfa5251a90e4cb39fe89552e28a3
+      internalID: 453978828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481435499d7f13e478dc5636006e04c1
+      internalID: -2053783498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 86
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f576613d27e1da49ae43ea17540d627
+      internalID: 453833750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbdee8e542f66848a995101fc3f9ba7
+      internalID: 590445919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2865c3a4aa2d47a7f2f05bc6575a3
+      internalID: 1856375005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bcddf84153b3e43b67e8a0a18da7f9
+      internalID: -639694092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701a9dde7b3a2e34c886a591b231b7fc
+      internalID: 465029147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620ddef9e335c0343b7780e1de300bd2
+      internalID: -1791924822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 87
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423ebe369732ab4d99d953ee8cd6bcb
+      internalID: -279842193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 87
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57386db3c2168534fa2c69160df998a2
+      internalID: 1292060750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 90
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc0bdd8b31a51241b703cc40c07c0da
+      internalID: 170754024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 98
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5229ce2e42e6b5479f7416ba347e208
+      internalID: 196112581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 41
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6635ebfb6053fa448e2dbea3a4d1b4d
+      internalID: 2053675034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 70
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94362ffb81dd7ed4dac6e16d238a9d4e
+      internalID: 977892646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 46
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4575eea805a5ab4683291a721784546
+      internalID: -7559694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce268df2914854ba4d22fe6a9b5942
+      internalID: -51689521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e877193ef3d5842920a2d865c61451
+      internalID: 1747824795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6bda9da3ce7b44f9a5dc606937a391
+      internalID: -390502802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b768ce948daa4c93a35ebd0bbf406
+      internalID: -327053569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743a04f88a8164345bcf5bf57f44e3f5
+      internalID: 1914350157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9f0d65ea1f0cf4da76255a366272cc
+      internalID: -600262572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 46
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1fb84b1365ed44eb703d0b574c3441
+      internalID: 1162987739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 46
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30deb326a3775654c89f8b655e49c994
+      internalID: 505656084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 42
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea76d370d5e5f41b51a5d9ff9c7709
+      internalID: -470243550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062e6d687714de2469c6c1b2256c7a86
+      internalID: -1039502261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb304b8bdc1d7f46b85f90f7cf615ab
+      internalID: -840270652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db2c8160c0e4884999f0920b3396ff7
+      internalID: 825354062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 411
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5540b1cd23540894c972054d6873ace2
+      internalID: -2143565478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea2b4b2c94f04e4898b931701bc919f
+      internalID: -2062132853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663827a818a45574fa30645fe6352d34
+      internalID: 1290734130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 11
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cdd012a0b4a0f47a9deb1c89c1f1aa
+      internalID: -111594192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f1ab35a439fa643bbba9998d27405b
+      internalID: -24635543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 11
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8425d112d0dd6a4d95e52acad733803
+      internalID: -271519051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario All Stars Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c71b63221879741b362ab1399ea40d
+      internalID: 1151431070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -209, y: 193.5}
+      - {x: -209, y: 210.5}
+      - {x: -196, y: 210.5}
+      - {x: -196, y: 193.5}
+    - - {x: -169, y: 194.5}
+      - {x: -169, y: 210.5}
+      - {x: -156, y: 210.5}
+      - {x: -156, y: 194.5}
+    - - {x: -131, y: 193.5}
+      - {x: -131, y: 210.5}
+      - {x: -115, y: 210.5}
+      - {x: -115, y: 193.5}
+    - - {x: -91, y: 193.5}
+      - {x: -91, y: 210.5}
+      - {x: -73, y: 210.5}
+      - {x: -73, y: 193.5}
+    - - {x: -49, y: 192.5}
+      - {x: -49, y: 211.5}
+      - {x: -34, y: 211.5}
+      - {x: -34, y: 192.5}
+    - - {x: -12, y: 193.5}
+      - {x: -12, y: 211.5}
+      - {x: 5, y: 211.5}
+      - {x: 5, y: 193.5}
+    - - {x: 28, y: 191.5}
+      - {x: 28, y: 211.5}
+      - {x: 44, y: 211.5}
+      - {x: 44, y: 191.5}
+    - - {x: 29, y: 152.5}
+      - {x: 29, y: 172.5}
+      - {x: 45, y: 172.5}
+      - {x: 45, y: 152.5}
+    - - {x: -9, y: 153.5}
+      - {x: -9, y: 171.5}
+      - {x: 6, y: 171.5}
+      - {x: 6, y: 153.5}
+    - - {x: -53, y: 152.5}
+      - {x: -53, y: 171.5}
+      - {x: -32, y: 171.5}
+      - {x: -32, y: 152.5}
+    - - {x: -131, y: 152.5}
+      - {x: -131, y: 170.5}
+      - {x: -113, y: 170.5}
+      - {x: -113, y: 152.5}
+    - - {x: -173, y: 152.5}
+      - {x: -173, y: 170.5}
+      - {x: -153, y: 170.5}
+      - {x: -153, y: 152.5}
+    - - {x: -212, y: 152.5}
+      - {x: -212, y: 170.5}
+      - {x: -192, y: 170.5}
+      - {x: -192, y: 152.5}
+    - - {x: -212, y: 105.5}
+      - {x: -212, y: 136.5}
+      - {x: -193, y: 136.5}
+      - {x: -193, y: 105.5}
+    - - {x: -173, y: 105.5}
+      - {x: -173, y: 137.5}
+      - {x: -151, y: 137.5}
+      - {x: -151, y: 105.5}
+    - - {x: -134, y: 105.5}
+      - {x: -134, y: 137.5}
+      - {x: -112, y: 137.5}
+      - {x: -112, y: 105.5}
+    - - {x: -92, y: 103.5}
+      - {x: -92, y: 137.5}
+      - {x: -71, y: 137.5}
+      - {x: -71, y: 103.5}
+    - - {x: -54, y: 105.5}
+      - {x: -54, y: 137.5}
+      - {x: -30, y: 137.5}
+      - {x: -30, y: 105.5}
+    - - {x: -11, y: 107.5}
+      - {x: -11, y: 135.5}
+      - {x: 7, y: 135.5}
+      - {x: 7, y: 107.5}
+    - - {x: 29, y: 106.5}
+      - {x: 29, y: 137.5}
+      - {x: 48, y: 137.5}
+      - {x: 48, y: 106.5}
+    - - {x: 68, y: 105.5}
+      - {x: 68, y: 138.5}
+      - {x: 87, y: 138.5}
+      - {x: 87, y: 105.5}
+    - - {x: -212, y: 66.5}
+      - {x: -212, y: 98.5}
+      - {x: -192, y: 98.5}
+      - {x: -192, y: 66.5}
+    - - {x: -172, y: 66.5}
+      - {x: -172, y: 98.5}
+      - {x: -153, y: 98.5}
+      - {x: -153, y: 66.5}
+    - - {x: -131, y: 63.5}
+      - {x: -131, y: 96.5}
+      - {x: -113, y: 96.5}
+      - {x: -113, y: 63.5}
+    - - {x: -94, y: 68.5}
+      - {x: -94, y: 96.5}
+      - {x: -72, y: 96.5}
+      - {x: -72, y: 68.5}
+    - - {x: -52, y: 67.5}
+      - {x: -52, y: 96.5}
+      - {x: -32, y: 96.5}
+      - {x: -32, y: 67.5}
+    - - {x: -14, y: 67.5}
+      - {x: -14, y: 99.5}
+      - {x: 11, y: 99.5}
+      - {x: 11, y: 67.5}
+    - - {x: 27, y: 65.5}
+      - {x: 27, y: 99.5}
+      - {x: 49, y: 99.5}
+      - {x: 49, y: 65.5}
+    - - {x: -212, y: 25.5}
+      - {x: -212, y: 58.5}
+      - {x: -189, y: 58.5}
+      - {x: -189, y: 25.5}
+    - - {x: -173, y: 25.5}
+      - {x: -173, y: 58.5}
+      - {x: -151, y: 58.5}
+      - {x: -151, y: 25.5}
+    - - {x: -131, y: 23.5}
+      - {x: -131, y: 59.5}
+      - {x: -112, y: 59.5}
+      - {x: -112, y: 23.5}
+    - - {x: -91, y: 24.5}
+      - {x: -91, y: 59.5}
+      - {x: -72, y: 59.5}
+      - {x: -72, y: 24.5}
+    - - {x: -54, y: 24.5}
+      - {x: -54, y: 59.5}
+      - {x: -33, y: 59.5}
+      - {x: -33, y: 24.5}
+    - - {x: -11, y: 27.5}
+      - {x: -11, y: 57.5}
+      - {x: 9, y: 57.5}
+      - {x: 9, y: 27.5}
+    - - {x: 26, y: 26.5}
+      - {x: 26, y: 57.5}
+      - {x: 46, y: 57.5}
+      - {x: 46, y: 26.5}
+    - - {x: 68, y: 24.5}
+      - {x: 68, y: 58.5}
+      - {x: 87, y: 58.5}
+      - {x: 87, y: 24.5}
+    - - {x: -213, y: -13.5}
+      - {x: -213, y: 18.5}
+      - {x: -192, y: 18.5}
+      - {x: -192, y: -13.5}
+    - - {x: -174, y: -13.5}
+      - {x: -174, y: 17.5}
+      - {x: -153, y: 17.5}
+      - {x: -153, y: -13.5}
+    - - {x: -133, y: -14.5}
+      - {x: -133, y: 18.5}
+      - {x: -113, y: 18.5}
+      - {x: -113, y: -14.5}
+    - - {x: -93, y: -11.5}
+      - {x: -93, y: 13.5}
+      - {x: -70, y: 13.5}
+      - {x: -70, y: -11.5}
+    - - {x: -53, y: -12.5}
+      - {x: -53, y: 17.5}
+      - {x: -32, y: 17.5}
+      - {x: -32, y: -12.5}
+    - - {x: -14, y: -12.5}
+      - {x: -14, y: 16.5}
+      - {x: 8, y: 16.5}
+      - {x: 8, y: -12.5}
+    - - {x: 26, y: -13.5}
+      - {x: 26, y: 15.5}
+      - {x: 48, y: 15.5}
+      - {x: 48, y: -13.5}
+    - - {x: -214, y: -46.5}
+      - {x: -214, y: -27.5}
+      - {x: -193, y: -27.5}
+      - {x: -193, y: -48.5}
+    - - {x: -175, y: -48.5}
+      - {x: -175, y: -23.5}
+      - {x: -154, y: -23.5}
+      - {x: -154, y: -48.5}
+    - - {x: -132, y: -45.5}
+      - {x: -132, y: -28.5}
+      - {x: -113, y: -28.5}
+      - {x: -113, y: -45.5}
+    - - {x: -92, y: -51.5}
+      - {x: -92, y: -23.5}
+      - {x: -72, y: -23.5}
+      - {x: -72, y: -51.5}
+    - - {x: -53, y: -52.5}
+      - {x: -53, y: -22.5}
+      - {x: -33, y: -22.5}
+      - {x: -33, y: -52.5}
+    - - {x: -13, y: -52.5}
+      - {x: -13, y: -23.5}
+      - {x: 8, y: -23.5}
+      - {x: 8, y: -52.5}
+    - - {x: 27, y: -52.5}
+      - {x: 27, y: -22.5}
+      - {x: 47, y: -22.5}
+      - {x: 47, y: -52.5}
+    - - {x: 68, y: -47.5}
+      - {x: 68, y: -28.5}
+      - {x: 87, y: -28.5}
+      - {x: 87, y: -47.5}
+    - - {x: 109, y: -47.5}
+      - {x: 109, y: -28.5}
+      - {x: 129, y: -28.5}
+      - {x: 129, y: -47.5}
+    - - {x: 146, y: -48.5}
+      - {x: 146, y: -27.5}
+      - {x: 168, y: -27.5}
+      - {x: 168, y: -48.5}
+    - - {x: -212, y: -87.5}
+      - {x: -212, y: -67.5}
+      - {x: -194, y: -67.5}
+      - {x: -194, y: -87.5}
+    - - {x: -171, y: -88.5}
+      - {x: -171, y: -69.5}
+      - {x: -153, y: -69.5}
+      - {x: -153, y: -88.5}
+    - - {x: -132, y: -85.5}
+      - {x: -132, y: -71.5}
+      - {x: -114, y: -71.5}
+      - {x: -114, y: -85.5}
+    - - {x: -92, y: -90.5}
+      - {x: -92, y: -64.5}
+      - {x: -72, y: -64.5}
+      - {x: -72, y: -90.5}
+    - - {x: -52, y: -90.5}
+      - {x: -52, y: -66.5}
+      - {x: -32, y: -66.5}
+      - {x: -32, y: -90.5}
+    - - {x: -14, y: -90.5}
+      - {x: -14, y: -64.5}
+      - {x: 7, y: -64.5}
+      - {x: 7, y: -90.5}
+    - - {x: 28, y: -90.5}
+      - {x: 28, y: -64.5}
+      - {x: 47, y: -64.5}
+      - {x: 47, y: -90.5}
+    - - {x: 66, y: -87.5}
+      - {x: 66, y: -67.5}
+      - {x: 88, y: -67.5}
+      - {x: 88, y: -87.5}
+    - - {x: 108, y: -88.5}
+      - {x: 108, y: -69.5}
+      - {x: 129, y: -69.5}
+      - {x: 129, y: -88.5}
+    - - {x: 146, y: -88.5}
+      - {x: 146, y: -68.5}
+      - {x: 167, y: -68.5}
+      - {x: 167, y: -88.5}
+    - - {x: 185, y: -87.5}
+      - {x: 185, y: -67.5}
+      - {x: 209, y: -67.5}
+      - {x: 209, y: -87.5}
+    - - {x: 187, y: -48.5}
+      - {x: 187, y: -26.5}
+      - {x: 209, y: -26.5}
+      - {x: 209, y: -48.5}
+    - - {x: -215, y: -132.5}
+      - {x: -215, y: -104.5}
+      - {x: -192, y: -104.5}
+      - {x: -192, y: -132.5}
+    - - {x: -174, y: -128.5}
+      - {x: -174, y: -108.5}
+      - {x: -154, y: -108.5}
+      - {x: -154, y: -128.5}
+    - - {x: -131, y: -130.5}
+      - {x: -131, y: -107.5}
+      - {x: -112, y: -107.5}
+      - {x: -112, y: -130.5}
+    - - {x: -94, y: -129.5}
+      - {x: -94, y: -107.5}
+      - {x: -72, y: -107.5}
+      - {x: -72, y: -129.5}
+    - - {x: -51, y: -129.5}
+      - {x: -51, y: -108.5}
+      - {x: -32, y: -108.5}
+      - {x: -32, y: -129.5}
+    - - {x: -13, y: -130.5}
+      - {x: -13, y: -106.5}
+      - {x: 8, y: -106.5}
+      - {x: 8, y: -130.5}
+    - - {x: 29, y: -136.5}
+      - {x: 29, y: -102.5}
+      - {x: 48, y: -102.5}
+      - {x: 48, y: -136.5}
+    - - {x: 67, y: -131.5}
+      - {x: 67, y: -101.5}
+      - {x: 89, y: -101.5}
+      - {x: 89, y: -131.5}
+    - - {x: 104, y: -127.5}
+      - {x: 104, y: -105.5}
+      - {x: 171, y: -105.5}
+      - {x: 171, y: -127.5}
+    - - {x: 190, y: -122.5}
+      - {x: 190, y: -101.5}
+      - {x: 207, y: -101.5}
+      - {x: 207, y: -122.5}
+    - - {x: 187, y: -146.5}
+      - {x: 187, y: -129.5}
+      - {x: 207, y: -129.5}
+      - {x: 207, y: -146.5}
+    - - {x: 189, y: -179.5}
+      - {x: 189, y: -154.5}
+      - {x: 207, y: -154.5}
+      - {x: 207, y: -179.5}
+    - - {x: 145, y: -177.5}
+      - {x: 145, y: -139.5}
+      - {x: 169, y: -139.5}
+      - {x: 169, y: -177.5}
+    - - {x: 108, y: -172.5}
+      - {x: 108, y: -141.5}
+      - {x: 127, y: -141.5}
+      - {x: 127, y: -172.5}
+    - - {x: 70, y: -172.5}
+      - {x: 70, y: -142.5}
+      - {x: 90, y: -142.5}
+      - {x: 90, y: -172.5}
+    - - {x: 29, y: -173.5}
+      - {x: 29, y: -144.5}
+      - {x: 49, y: -144.5}
+      - {x: 49, y: -173.5}
+    - - {x: -10, y: -169.5}
+      - {x: -10, y: -145.5}
+      - {x: 8, y: -145.5}
+      - {x: 8, y: -169.5}
+    - - {x: -54, y: -171.5}
+      - {x: -54, y: -143.5}
+      - {x: -31, y: -143.5}
+      - {x: -31, y: -171.5}
+    - - {x: -92, y: -171.5}
+      - {x: -92, y: -149.5}
+      - {x: -71, y: -149.5}
+      - {x: -71, y: -171.5}
+    - - {x: -133, y: -168.5}
+      - {x: -133, y: -147.5}
+      - {x: -111, y: -147.5}
+      - {x: -111, y: -168.5}
+    - - {x: -174, y: -168.5}
+      - {x: -174, y: -146.5}
+      - {x: -150, y: -146.5}
+      - {x: -150, y: -168.5}
+    - - {x: -211, y: -172.5}
+      - {x: -211, y: -145.5}
+      - {x: -192, y: -145.5}
+      - {x: -192, y: -172.5}
+    - - {x: -180, y: -215.5}
+      - {x: -180, y: -177.5}
+      - {x: -145, y: -177.5}
+      - {x: -145, y: -215.5}
+    - - {x: -140, y: -216.5}
+      - {x: -140, y: -175.5}
+      - {x: -105, y: -175.5}
+      - {x: -105, y: -216.5}
+    - - {x: -98, y: -216.5}
+      - {x: -98, y: -177.5}
+      - {x: -65, y: -177.5}
+      - {x: -65, y: -216.5}
+    - - {x: -57, y: -216.5}
+      - {x: -59, y: -178.5}
+      - {x: -25, y: -178.5}
+      - {x: -25, y: -216.5}
+    - - {x: -217, y: -216.5}
+      - {x: -218, y: -176.5}
+      - {x: -186, y: -176.5}
+      - {x: -186, y: -216.5}
+    - - {x: -17, y: -207.5}
+      - {x: -17, y: -186.5}
+      - {x: 12, y: -186.5}
+      - {x: 12, y: -207.5}
+    - - {x: 25, y: -206.5}
+      - {x: 25, y: -191.5}
+      - {x: 54, y: -191.5}
+      - {x: 54, y: -206.5}
+    - - {x: 67, y: -207.5}
+      - {x: 64, y: -188.5}
+      - {x: 88, y: -188.5}
+      - {x: 96, y: -206.5}
+    - - {x: 112, y: -207.5}
+      - {x: 112, y: -191.5}
+      - {x: 124, y: -191.5}
+      - {x: 124, y: -207.5}
+    - - {x: 98, y: 66.5}
+      - {x: 98, y: 94.5}
+      - {x: 117, y: 94.5}
+      - {x: 117, y: 66.5}
+    - - {x: 120, y: 66.5}
+      - {x: 120, y: 96.5}
+      - {x: 134, y: 96.5}
+      - {x: 134, y: 66.5}
+    - - {x: 142, y: 69.5}
+      - {x: 142, y: 97.5}
+      - {x: 172, y: 97.5}
+      - {x: 172, y: 69.5}
+    - - {x: 177, y: 69.5}
+      - {x: 177, y: 96.5}
+      - {x: 218, y: 96.5}
+      - {x: 218, y: 69.5}
+    - - {x: 105, y: 28.5}
+      - {x: 105, y: 54.5}
+      - {x: 128, y: 54.5}
+      - {x: 128, y: 28.5}
+    - - {x: 129, y: 28.5}
+      - {x: 129, y: 53.5}
+      - {x: 147, y: 53.5}
+      - {x: 147, y: 28.5}
+    - - {x: 150, y: 26.5}
+      - {x: 150, y: 57.5}
+      - {x: 164, y: 57.5}
+      - {x: 164, y: 26.5}
+    - - {x: 107, y: -14.5}
+      - {x: 107, y: 18.5}
+      - {x: 129, y: 18.5}
+      - {x: 129, y: -14.5}
+    - - {x: 147, y: -16.5}
+      - {x: 147, y: 21.5}
+      - {x: 168, y: 21.5}
+      - {x: 168, y: -16.5}
+    - - {x: 109, y: 108.5}
+      - {x: 109, y: 135.5}
+      - {x: 127, y: 135.5}
+      - {x: 127, y: 108.5}
+    - - {x: 144, y: 107.5}
+      - {x: 144, y: 136.5}
+      - {x: 168, y: 136.5}
+      - {x: 168, y: 107.5}
+    - - {x: 190, y: 108.5}
+      - {x: 190, y: 136.5}
+      - {x: 206, y: 136.5}
+      - {x: 206, y: 108.5}
+    - - {x: 106, y: 148.5}
+      - {x: 106, y: 175.5}
+      - {x: 131, y: 175.5}
+      - {x: 131, y: 148.5}
+    - - {x: 140, y: 148.5}
+      - {x: 140, y: 175.5}
+      - {x: 177, y: 175.5}
+      - {x: 177, y: 148.5}
+    - - {x: 184, y: 153.5}
+      - {x: 184, y: 168.5}
+      - {x: 212, y: 168.5}
+      - {x: 212, y: 153.5}
+    - - {x: 105, y: 186.5}
+      - {x: 105, y: 216.5}
+      - {x: 133, y: 216.5}
+      - {x: 133, y: 186.5}
+    - - {x: 144, y: 185.5}
+      - {x: 144, y: 215.5}
+      - {x: 170, y: 215.5}
+      - {x: 170, y: 185.5}
+    - - {x: 183, y: 185.5}
+      - {x: 183, y: 212.5}
+      - {x: 211, y: 212.5}
+      - {x: 211, y: 185.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super Mario All Stars Sprites_38: 1489133059
+      Super Mario All Stars Sprites_3: -1871617808
+      Super Mario All Stars Sprites_87: 465029147
+      Super Mario All Stars Sprites_48: 982265594
+      Super Mario All Stars Sprites_13: -1857408393
+      Super Mario All Stars Sprites_54: -61552123
+      Super Mario All Stars Sprites_21: 830861966
+      Super Mario All Stars Sprites_5: -582737374
+      Super Mario All Stars Sprites_40: 3146243
+      Super Mario All Stars Sprites_25: -842219047
+      Super Mario All Stars Sprites_78: -1229112213
+      Super Mario All Stars Sprites_74: 1019837573
+      Super Mario All Stars Sprites_111: -24635543
+      Super Mario All Stars Sprites_91: 170754024
+      Super Mario All Stars Sprites_77: 1740899794
+      Super Mario All Stars Sprites_20: -1215356282
+      Super Mario All Stars Sprites_50: 679482557
+      Super Mario All Stars Sprites_67: 79690068
+      Super Mario All Stars Sprites_76: -1715064085
+      Super Mario All Stars Sprites_65: -1015295466
+      Super Mario All Stars Sprites_88: -1791924822
+      Super Mario All Stars Sprites_93: 2053675034
+      Super Mario All Stars Sprites_32: -1200295407
+      Super Mario All Stars Sprites_57: -2053561416
+      Super Mario All Stars Sprites_10: 1599987208
+      Super Mario All Stars Sprites_72: 1780050184
+      Super Mario All Stars Sprites_100: 1914350157
+      Super Mario All Stars Sprites_64: 1368853541
+      Super Mario All Stars Sprites_66: -214565217
+      Super Mario All Stars Sprites_84: 590445919
+      Super Mario All Stars Sprites_18: -118465963
+      Super Mario All Stars Sprites_47: -46275327
+      Super Mario All Stars Sprites_75: -926372795
+      Super Mario All Stars Sprites_58: 777551145
+      Super Mario All Stars Sprites_95: -7559694
+      Super Mario All Stars Sprites_4: -598084240
+      Super Mario All Stars Sprites_81: 453978828
+      Super Mario All Stars Sprites_31: 944915445
+      Super Mario All Stars Sprites_9: 408637740
+      Super Mario All Stars Sprites_35: 989284257
+      Super Mario All Stars Sprites_69: -1031044687
+      Super Mario All Stars Sprites_52: 528222435
+      Super Mario All Stars Sprites_6: 496423564
+      Super Mario All Stars Sprites_59: 1233529704
+      Super Mario All Stars Sprites_102: 1162987739
+      Super Mario All Stars Sprites_55: 1792319763
+      Super Mario All Stars Sprites_99: -327053569
+      Super Mario All Stars Sprites_101: -600262572
+      Super Mario All Stars Sprites_112: -271519051
+      Super Mario All Stars Sprites_68: -1815372688
+      Super Mario All Stars Sprites_0: -2143565478
+      Super Mario All Stars Sprites_41: 794013625
+      Super Mario All Stars Sprites_37: 1299715184
+      Super Mario All Stars Sprites_109: 1290734130
+      Super Mario All Stars Sprites_23: -612545280
+      Super Mario All Stars Sprites_98: -390502802
+      Super Mario All Stars Sprites_104: -470243550
+      Super Mario All Stars Sprites_73: 169455135
+      Super Mario All Stars Sprites_97: 1747824795
+      Super Mario All Stars Sprites_30: -1782342934
+      Super Mario All Stars Sprites_44: 552837818
+      Super Mario All Stars Sprites_85: 1856375005
+      Super Mario All Stars Sprites_12: 1893501250
+      Super Mario All Stars Sprites_89: -279842193
+      Super Mario All Stars Sprites_86: -639694092
+      Super Mario All Stars Sprites_33: -1072940310
+      Super Mario All Stars Sprites_26: 1523405123
+      Super Mario All Stars Sprites_7: -1385802615
+      Super Mario All Stars Sprites_53: -937206693
+      Super Mario All Stars Sprites_29: -1540738977
+      Super Mario All Stars Sprites_83: 453833750
+      Super Mario All Stars Sprites_45: -1441839403
+      Super Mario All Stars Sprites_28: 1241841859
+      Super Mario All Stars Sprites_90: 1292060750
+      Super Mario All Stars Sprites_71: -1025678994
+      Super Mario All Stars Sprites_17: 1505576557
+      Super Mario All Stars Sprites_19: 443611129
+      Super Mario All Stars Sprites_42: -1247159975
+      Super Mario All Stars Sprites_105: -1039502261
+      Super Mario All Stars Sprites_94: 977892646
+      Super Mario All Stars Sprites_63: -289431105
+      Super Mario All Stars Sprites_61: 1212221453
+      Super Mario All Stars Sprites_56: 729471977
+      Super Mario All Stars Sprites_110: -111594192
+      Super Mario All Stars Sprites_106: -840270652
+      Super Mario All Stars Sprites_80: 936332865
+      Super Mario All Stars Sprites_11: 1875606763
+      Super Mario All Stars Sprites_79: -696063227
+      Super Mario All Stars Sprites_1: -979752946
+      Super Mario All Stars Sprites_22: -712479527
+      Super Mario All Stars Sprites_27: 563906885
+      Super Mario All Stars Sprites_34: -2114493622
+      Super Mario All Stars Sprites_43: 2025002802
+      Super Mario All Stars Sprites_113: 1151431070
+      Super Mario All Stars Sprites_39: -383127158
+      Super Mario All Stars Sprites_49: 908054248
+      Super Mario All Stars Sprites_92: 196112581
+      Super Mario All Stars Sprites_51: 1064582761
+      Super Mario All Stars Sprites_60: -271996420
+      Super Mario All Stars Sprites_103: 505656084
+      Super Mario All Stars Sprites_15: 1897370998
+      Super Mario All Stars Sprites_16: -1721487204
+      Super Mario All Stars Sprites_2: -1270167922
+      Super Mario All Stars Sprites_62: 147109229
+      Super Mario All Stars Sprites_46: -1510736169
+      Super Mario All Stars Sprites_107: 825354062
+      Super Mario All Stars Sprites_82: -2053783498
+      Super Mario All Stars Sprites_8: 1941110053
+      Super Mario All Stars Sprites_14: 53336148
+      Super Mario All Stars Sprites_108: -2062132853
+      Super Mario All Stars Sprites_36: 1697486576
+      Super Mario All Stars Sprites_70: 675316759
+      Super Mario All Stars Sprites_96: -51689521
+      Super Mario All Stars Sprites_24: 908553184
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
